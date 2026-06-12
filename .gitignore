@@ -1,0 +1,25 @@
+# Godot
+.godot/
+*.import
+*.godot.uid
+.import/
+export/
+exports/
+logs/
+*.mono
+*.tmp
+*.backup
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+.idea/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
